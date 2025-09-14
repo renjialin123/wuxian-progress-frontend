@@ -1,8 +1,8 @@
-<img width="2238" height="1221" alt="image" src="https://github.com/user-attachments/assets/4308c903-c261-4950-b8a0-3268e34689a7" /># wuxian-progress-frontend
+# wuxian-progress-frontend
 
 This template should help get you started developing with Vue 3 in Vite.
 
-这是无限进步云图库的前端代码（本人参与50%，剩下求助AI帮忙生成），但是基本的页面设计对于新手小白也有不错的参考价值，后端代码移步
+这是无限进步云图库的前端代码（本人参与50%，剩下求助AI帮忙生成），但是基本的页面设计对于新手小白也有不错的参考价值，后端代码移步https://github.com/renjialin123/wuxian-progress
 
 
 以下是具体实现图片
