@@ -7,11 +7,13 @@ This template should help get you started developing with Vue 3 in Vite.
 
 以下是具体实现图片
 主页设计
-![Uploading 6e6cd583d94e73c8e7b0ee17fef41ad6.png…]()
+<img width="2235" height="1266" alt="6e6cd583d94e73c8e7b0ee17fef41ad6" src="https://github.com/user-attachments/assets/0cb62271-28e1-418a-b3c0-a143a1ffd33f" />
+
 
 
 用户管理（三个管理页面类似）
-![Uploading be55becf5a2760ab593309bf0f7fe057.png…]()
+<img width="2232" height="1269" alt="be55becf5a2760ab593309bf0f7fe057" src="https://github.com/user-attachments/assets/aab816cd-50e1-4867-a21c-2d7e88058f9b" />
+
 
 
 图片管理（核心功能：关键词检索、批量创建）
@@ -20,11 +22,14 @@ This template should help get you started developing with Vue 3 in Vite.
 
 
 创建空间
-![Uploading 99fbdb74c9b10c89f467960779353e1d.png…]()
+<img width="2238" height="1212" alt="99fbdb74c9b10c89f467960779353e1d" src="https://github.com/user-attachments/assets/f662c068-05b3-4305-a219-044607803b32" />
+
+
 
 
 用户私有空间显示
-![Uploading 54f2dcf29a36fa5948b3b7a5dbfcf265.png…]()
+<img width="2235" height="1212" alt="60173feed1f07d891b00d1b4b6fbf40d" src="https://github.com/user-attachments/assets/d8b26c7d-8299-452a-a80b-3fdac195331d" />
+
 
 
 
